@@ -1,1 +1,1 @@
-print("test first class")
+print("test first class for python")
