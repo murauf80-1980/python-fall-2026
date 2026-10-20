@@ -1,0 +1,1 @@
+print("test first class for test user python")
